@@ -1,3 +1,7 @@
+> **This repository has been archived.** This tool has been merged into [kscott/get-clear](https://github.com/kscott/get-clear). Issues, history, and active development have moved there.
+
+---
+
 # text-cli
 
 Send iMessages and SMS from the terminal. Fire and forget.
